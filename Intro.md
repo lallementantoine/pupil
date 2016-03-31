@@ -1,0 +1,1 @@
+The wiki has moved, go to: http://github.com/pupil-labs/pupil/wiki
